@@ -29,8 +29,8 @@ Siga os passos abaixo para clonar e executar o projeto em sua máquina local:
    flutter run
 
 ## Requisitos
-Flutter SDK: Instalação do Flutter
-Dart SDK (incluído com o Flutter)
+- Flutter SDK: Instalação do Flutter
+- Dart SDK (incluído com o Flutter)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorias, correções de bugs ou novas funcionalidades.
@@ -41,5 +41,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 ## Contato
 Para dúvidas ou sugestões, entre em contato:
 
-Email: oiusuario016@gmail.com
-GitHub: DevFalconsz
+- Email: oiusuario016@gmail.com
+- GitHub: DevFalconsz
