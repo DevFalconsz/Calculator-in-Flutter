@@ -9,7 +9,7 @@ Esta é uma calculadora simples e funcional desenvolvida utilizando Flutter. A a
 
 ## Capturas de Tela
 
-(Adicione aqui algumas capturas de tela da aplicação)
+![Texto alternativo](https://raw.githubusercontent.com/DevFalconsz/Calculator-in-Flutter/main/calculator_app/assets/images/Sem%20t%C3%ADtulo.png)
 
 ## Como Executar
 
